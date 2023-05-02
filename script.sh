@@ -1,4 +1,4 @@
-echo $ "Hai,,,let's test again"
+echo "Hai,,,let's test again"
 echo $(date)
-echo $ "A message from remote repo is success"
-echo $(time)
+echo "A message from remote repo is success"
+
